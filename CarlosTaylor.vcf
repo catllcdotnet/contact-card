@@ -8,10 +8,11 @@ TITLE:Project Manager
 EMAIL;type=INTERNET;type=WORK;type=pref:info@catllc.net
 item1.TEL;type=pref:(336) 471-4154
 item1.X-ABLabel:Work/Cell
-ADR;type=pref:;;;Greensboro;NC;27403;US
+ADR;type=pref:;PO Box 313;;Kernersville;NC;27285;US
 NOTE:We specialize in TV mounting\, home theater installation\, security camera setup\, networking\, smart home integration\, wire running\, and general tech solutions. Serving the North Carolina Piedmont Triad since 2014\, we make technology work seamlessly for your home or business.\n\nNeed help? Call or text anytime!
 item2.URL;type=pref:bit.ly/3tMQRQu
 item2.X-ABLabel:Reviews
 item3.URL:CatLLC.net
 item3.X-ABLabel:Business Home Page
 END:VCARD
+
